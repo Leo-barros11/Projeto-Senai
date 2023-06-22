@@ -104,12 +104,18 @@
     position: absolute;
     font-family: 'Gilda Display', serif;
     margin-top: 380px;
-    margin-left: 690px;
+    margin-left: 686px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
 }
 #cad{
     position: absolute;
     font-family: 'Gilda Display', serif;
     margin-top: 420px;
-    margin-left: 695px;
+    margin-left: 692px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
 }
 
